@@ -1,0 +1,20 @@
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variable / API key (jangan pernah ke-push!)
+.env
+
+# Dokumen PRD (dikumpulkan lewat link terpisah, bukan lewat repo GitHub)
+*.docx
+BAB_II_F_Kebutuhan_AI.md
+
+# Preview/duplikat otomatis dari editor (bukan konten asli, redundan dengan file aslinya)
+data_balita.md
+zscore_who_permenkes_2020.md
+Guidebook - CCI Intelliweb 2026.md
+
+# Dokumen panitia lomba (bukan hasil kerja tim)
+Guidebook - CCI Intelliweb 2026.pdf
